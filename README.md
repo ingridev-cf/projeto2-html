@@ -13,4 +13,4 @@ Foi deixado ao critério do aluno a escolha da especialidade da clínica, bem co
 
 Como não tenho conhecimento de CSS, segui o proposto no projeto que era utilizar os conhecimentos de HTML aprendidos no curso, razão pela qual a estilização não está das melhores.
 
-Trata-se de um projeto em andamento, que pretendo melhorá-lo durante meus estudos.
+Trata-se de um projeto em andamento, que pretendo melhorar durante meus estudos.
