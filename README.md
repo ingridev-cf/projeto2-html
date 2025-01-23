@@ -7,7 +7,7 @@
   <li>Contato</li>  
 </ul>
 
-Tomou-se por base um template disponibilizado pelo professos contendo lateral, cabeçalho, o conteúdo principal e um rodapé.
+Tomou-se por base um template disponibilizado pelo professor contendo menu lateral, cabeçalho, o conteúdo principal e um rodapé.
 
 Foi deixado ao critério do aluno a escolha da especialidade da clínica, bem como seu nome, cores etc.
 
